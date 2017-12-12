@@ -1,0 +1,14 @@
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Console.exe.config
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Console.exe
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Console.pdb
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Archivos.dll
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\ClasesAbstractas.dll
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\ClasesInstanciables.dll
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Excepciones.dll
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Archivos.pdb
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\ClasesAbstractas.pdb
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\ClasesInstanciables.pdb
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\bin\Debug\Excepciones.pdb
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\obj\Debug\Console.exe
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Console\obj\Debug\Console.pdb

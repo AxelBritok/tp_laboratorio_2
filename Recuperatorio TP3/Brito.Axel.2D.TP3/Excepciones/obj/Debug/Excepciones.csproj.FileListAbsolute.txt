@@ -1,0 +1,5 @@
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Excepciones\bin\Debug\Excepciones.dll
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Excepciones\bin\Debug\Excepciones.pdb
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Excepciones\obj\Debug\Excepciones.dll
+c:\users\skynet\documents\visual studio 2012\Projects\Brito.Axel.2D\Excepciones\obj\Debug\Excepciones.pdb
